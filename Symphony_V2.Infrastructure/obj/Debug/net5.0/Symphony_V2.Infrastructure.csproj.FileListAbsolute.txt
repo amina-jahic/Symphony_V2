@@ -1,0 +1,12 @@
+C:\Users\Amina\source\repos\Symphony_V2\Symphony_V2.Infrastructure\obj\Debug\net5.0\Symphony_V2.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Amina\source\repos\Symphony_V2\Symphony_V2.Infrastructure\obj\Debug\net5.0\Symphony_V2.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amina\source\repos\Symphony_V2\Symphony_V2.Infrastructure\obj\Debug\net5.0\Symphony_V2.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Amina\source\repos\Symphony_V2\Symphony_V2.Infrastructure\obj\Debug\net5.0\Symphony_V2.Infrastructure.AssemblyInfo.cs
+C:\Users\Amina\source\repos\Symphony_V2\Symphony_V2.Infrastructure\obj\Debug\net5.0\Symphony_V2.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Amina\source\repos\Symphony_V2\Symphony_V2.Infrastructure\bin\Debug\net5.0\Symphony_V2.Infrastructure.deps.json
+C:\Users\Amina\source\repos\Symphony_V2\Symphony_V2.Infrastructure\bin\Debug\net5.0\Symphony_V2.Infrastructure.dll
+C:\Users\Amina\source\repos\Symphony_V2\Symphony_V2.Infrastructure\bin\Debug\net5.0\ref\Symphony_V2.Infrastructure.dll
+C:\Users\Amina\source\repos\Symphony_V2\Symphony_V2.Infrastructure\bin\Debug\net5.0\Symphony_V2.Infrastructure.pdb
+C:\Users\Amina\source\repos\Symphony_V2\Symphony_V2.Infrastructure\obj\Debug\net5.0\Symphony_V2.Infrastructure.dll
+C:\Users\Amina\source\repos\Symphony_V2\Symphony_V2.Infrastructure\obj\Debug\net5.0\ref\Symphony_V2.Infrastructure.dll
+C:\Users\Amina\source\repos\Symphony_V2\Symphony_V2.Infrastructure\obj\Debug\net5.0\Symphony_V2.Infrastructure.pdb

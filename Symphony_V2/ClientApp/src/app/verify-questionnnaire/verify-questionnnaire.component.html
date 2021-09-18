@@ -1,0 +1,12 @@
+<div class="form-group">
+    <label for="exampleInputPassword1">Enter PIN:</label>
+    <input type="text" class="form-control" [(ngModel)]="pin" placeholder="Pin" maxlength="4">
+</div>
+
+<div class="button">
+    <button class="btn btn-primary" (click)="verifyPin()" [disabled]="!pin">Submit</button>
+</div>
+
+<div *ngIf="!valid">
+    <b>PIN code not valid! Try again.</b>
+</div>

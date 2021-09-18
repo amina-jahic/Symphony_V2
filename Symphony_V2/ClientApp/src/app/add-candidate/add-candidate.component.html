@@ -1,0 +1,41 @@
+<div [formGroup]="userForm">
+    <h3>Candidate Details:</h3>
+
+    <div class="form-group">
+        <label for="exampleInputPassword1">First Name</label>
+        <input type="text" class="form-control" formControlName="firstName" placeholder="First Name">
+    </div>
+    <div class="form-group">
+        <label for="exampleInputPassword1">Last Name</label>
+        <input type="text" class="form-control" formControlName="lastName" placeholder="Last Name">
+    </div>
+    <div class="form-group">
+        <label for="exampleInputEmail1">Email address</label>
+        <input type="email" class="form-control" formControlName="email"  placeholder="Email">
+    </div>
+    <div class="form-group">
+        <label for="exampleInputPassword1">Password</label>
+        <input type="password" class="form-control" formControlName="password" placeholder="Password">
+    </div>
+    <div class="form-group">
+        <label for="exampleInputPassword1">Date of Birth</label>
+        <input type="date" class="form-control" formControlName="dateOfBirth" placeholder="Date of Birth">
+    </div>
+    <div class="form-group">
+        <label for="exampleInputPassword1">Code</label>
+        <input type="text" class="form-control" formControlName="code" placeholder="Code">
+    </div>
+    <div class="form-check form-check-inline">
+        <input class="form-check-input" type="radio" formControlName="gender" value="0"/>
+        <label class="form-check-label" for="inlineRadio1">Male</label>
+      </div>
+      <div class="form-check form-check-inline">
+        <input class="form-check-input" type="radio" formControlName="gender" value="1"/>
+        <label class="form-check-label" for="inlineRadio2">Female</label>
+      </div>
+
+    <div class="button">
+        <button class="btn btn-primary" (click)="saveUser()" [disabled]="userForm.invalid">Save</button>
+        <button class="btn btn-secondary" (click)="cancel()">Cancel</button>
+    </div>
+</div>

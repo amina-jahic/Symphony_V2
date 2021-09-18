@@ -1,0 +1,12 @@
+C:\Users\Amina\source\repos\Symphony_V2\Symphony_V2.Services\bin\Debug\net5.0\Symphony_V2.Services.deps.json
+C:\Users\Amina\source\repos\Symphony_V2\Symphony_V2.Services\bin\Debug\net5.0\Symphony_V2.Services.dll
+C:\Users\Amina\source\repos\Symphony_V2\Symphony_V2.Services\bin\Debug\net5.0\ref\Symphony_V2.Services.dll
+C:\Users\Amina\source\repos\Symphony_V2\Symphony_V2.Services\bin\Debug\net5.0\Symphony_V2.Services.pdb
+C:\Users\Amina\source\repos\Symphony_V2\Symphony_V2.Services\obj\Debug\net5.0\Symphony_V2.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amina\source\repos\Symphony_V2\Symphony_V2.Services\obj\Debug\net5.0\Symphony_V2.Services.AssemblyInfoInputs.cache
+C:\Users\Amina\source\repos\Symphony_V2\Symphony_V2.Services\obj\Debug\net5.0\Symphony_V2.Services.AssemblyInfo.cs
+C:\Users\Amina\source\repos\Symphony_V2\Symphony_V2.Services\obj\Debug\net5.0\Symphony_V2.Services.csproj.CoreCompileInputs.cache
+C:\Users\Amina\source\repos\Symphony_V2\Symphony_V2.Services\obj\Debug\net5.0\Symphony_V2.Services.dll
+C:\Users\Amina\source\repos\Symphony_V2\Symphony_V2.Services\obj\Debug\net5.0\ref\Symphony_V2.Services.dll
+C:\Users\Amina\source\repos\Symphony_V2\Symphony_V2.Services\obj\Debug\net5.0\Symphony_V2.Services.pdb
+C:\Users\Amina\source\repos\Symphony_V2\Symphony_V2.Services\obj\Debug\net5.0\Symphony_V2.Services.csproj.AssemblyReference.cache

@@ -1,0 +1,34 @@
+<table class="table">
+    <thead>
+      <tr>
+        <th scope="col">Question</th>
+        <th scope="col">Strongly agree</th>
+        <th scope="col">Agree</th>
+        <th scope="col">Disagree</th>
+        <th scope="col">Strongly disagree</th>
+        <th scope="col"></th>
+      </tr>
+    </thead>
+    <tbody [formGroup]="answerForm">
+        <tr *ngFor="let question of questions">
+            <td>{{question.questionValue}}</td>
+            <td>
+                <input style="margin-left: 1.25rem" type="radio" value="0" [formControlName]="questionFormControlName(question.id)"/>
+            </td>
+            <td>
+                <input style="margin-left: 1.25rem" type="radio" value="1" [formControlName]="questionFormControlName(question.id)"/>
+            </td>
+            <td>
+                <input style="margin-left: 1.25rem" type="radio" value="2" [formControlName]="questionFormControlName(question.id)"/>
+            </td>
+            <td>
+                <input style="margin-left: 1.25rem" type="radio" value="3" [formControlName]="questionFormControlName(question.id)"/>
+            </td>
+        </tr>
+    </tbody>
+  </table>
+<div class="button" *ngIf="isQuestionnareAnswered">
+    <button class="btn btn-primary" (click)="submitQuestionnaire()">Submit</button>
+</div>
+
+<b *ngIf="!isQuestionnareAnswered">You have already populated questionnaire</b>
